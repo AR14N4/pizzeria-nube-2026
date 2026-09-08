@@ -1,1 +1,1 @@
-columnas = {"fecha", "cliente", "monto_absoluto", "sucursal"}
+columnas = {"tipo de pago", "fecha", "cliente", "monto_absoluto", "sucursal"}
